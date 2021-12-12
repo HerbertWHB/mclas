@@ -1,0 +1,10 @@
+*.pt
+*.txt
+*.xml
+tmp/
+*.jpg
+*.localdomain
+*.sh
+temp/
+logs/
+results/
